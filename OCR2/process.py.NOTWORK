@@ -22,7 +22,7 @@ if "ABBYY_APPID" in os.environ:
 	processor.ApplicationId = os.environ["cardXChange"]
 
 if "ABBYY_PWD" in os.environ:
-	processor.Password = os.environ["JcPycjt1hjlgVRszeXzBMPqn"]
+	processor.Password = os.environ["XXXXXXXXXXXX"]
 
 # Proxy settings
 if "http_proxy" in os.environ:
