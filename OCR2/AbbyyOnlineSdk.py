@@ -39,7 +39,7 @@ class AbbyyOnlineSdk:
 #	Password = "password"
 
 	ApplicationId = "cardXChange"
-	Password = "JcPycjt1hjlgVRszeXzBMPqn"
+	Password = "XXXXXX"
 	Proxy = None
 	enableDebugging = 0
 
